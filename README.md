@@ -277,7 +277,7 @@ X_test_pca = pca.transform(X_test_scaled)
 ## Getting Started
 - Clone this repository to your local machine by using the following command :
  ```bash
- git clone https://github.com/TheMrityunjayPathak/Feature-Engineering.git
+ git clone https://github.com/themrityunjaypathak/Feature-Engineering.git
  ```
 - Install the Jupyter Notebook :
  ```bash
